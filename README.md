@@ -16,7 +16,7 @@ Currently exploring <strong>JavaScript</strong>, <strong>AI/ML</strong>, and ope
 
 ---
 
-<h1 align="center">🐼 GitInsight</h1>
+<h1 align="center">📊 GitInsight</h1>
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical" />
