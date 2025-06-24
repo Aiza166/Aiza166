@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Welcome 👋</h1>
 
-<!--
-**Aiza166/Aiza166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm <strong>Aiza Gazyani</strong>, a Computer Science undergrad at <strong>FAST NUCES Karachi</strong> (Class of 2027).  
+I'm passionate about clean code, community-driven projects, and building purposeful tech.  
+Currently exploring <strong>JavaScript</strong>, <strong>AI/ML</strong>, and open-source collaboration through <strong>Dev Weekends</strong>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">⚙️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,python,c,cpp,php,git,github,vscode,bash,linux,vercel,netlify,arduino,codepen,notion" />
+</p>
+
+---
+
+<h1 align="center">🐼 GitInsight</h1>
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiza166&theme=radical&hide_border=false" />
+</p>
+
+---
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<p align="center">
+📌 Deepening my understanding of <strong>JavaScript</strong> (ES6+, DOM, async), improving my frontend projects,  
+and experimenting with beginner-friendly <strong>AI/ML</strong> tools and frameworks like TensorFlow and PyTorch.  
+<br><br>
+🧠 Always looking to collaborate on meaningful projects and sharpen my problem-solving skills.  <br>
+💬 Ask me about content writing, FOSS communities, or how to get started with programming!
+</p>
+
+---
+
+<h2 align="center">📬 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aiza-gazyani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aizagazyani16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DevWeekends" target="_blank">
+    <img src="https://img.shields.io/badge/Dev%20Weekends-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aiza166/Aiza166/blob/main/Aiza%20Gazyani%20-%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">💭</h3>
+<p align="center"><em>"Learning to write programs stretches your mind, and helps you think better. It creates a way of thinking about things that I think is helpful in all domains." — Bill Gates</em></p>
