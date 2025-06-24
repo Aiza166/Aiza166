@@ -11,7 +11,7 @@ Currently exploring <strong>JavaScript</strong>, <strong>AI/ML</strong>, and ope
 <h2 align="center">⚙️ Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,python,c,cpp,php,git,github,vscode,bash,linux,vercel,netlify,arduino,codepen,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,python,mysql,c,cpp,php,git,github,vscode,bash,linux,vercel,netlify,arduino,codepen,notion" />
 </p>
 
 ---
