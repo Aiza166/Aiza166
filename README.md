@@ -49,7 +49,7 @@ and experimenting with beginner-friendly <strong>AI/ML</strong> tools and framew
   <a href="https://github.com/DevWeekends" target="_blank">
     <img src="https://img.shields.io/badge/Dev%20Weekends-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Aiza166/Aiza166/blob/main/Aiza%20Gazyani%20-%20Resume.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1gVoejS2706F0qUaFk_LceXCi7GaGMVHw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
