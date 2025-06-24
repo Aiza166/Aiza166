@@ -23,10 +23,6 @@ Currently exploring <strong>JavaScript</strong>, <strong>AI/ML</strong>, and ope
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aiza166&theme=radical&hide_border=false" />
-</p>
-
 ---
 
 <h2 align="center">🌱 Currently Exploring</h2>
