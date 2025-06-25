@@ -19,8 +19,8 @@ Currently exploring <strong>JavaScript</strong>, <strong>AI/ML</strong>, and ope
 <h1 align="center">📊 GitInsight</h1>
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical&cache_buster=1" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical&cache_buster=1" />
 </p>
 
 ---
