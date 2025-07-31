@@ -46,9 +46,6 @@ and experimenting with beginner-friendly <strong>AI/ML</strong> tools and framew
   <a href="mailto:aizagazyani16@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/DevWeekends" target="_blank">
-    <img src="https://img.shields.io/badge/Dev%20Weekends-00C9FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://drive.google.com/file/d/1gVoejS2706F0qUaFk_LceXCi7GaGMVHw/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
