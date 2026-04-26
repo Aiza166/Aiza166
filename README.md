@@ -1,77 +1,82 @@
-<h1 align="center">Hi, I'm Aiza Gazyani 👋</h1>
+<div align="center">
 
-<p align="center">
-  BSCS '27 @ FAST NUCES Karachi &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Systems
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aiza%20Gazyani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BSCS%20%2727%20%40%20FAST%20NUCES%20Karachi&descAlignY=55&descSize=16" />
 
-<p align="center">
-  I build at the intersection of AI, systems, and meaningful user experiences.<br>
-  From kernel modules to multi-agent AI pipelines — I don't just write code, I craft solutions.
-</p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aiza-gazyani/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aizagazyani16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://aiza-gazyani.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1OKGIaNsI12ut-s7ik_8mOjJ-gzQdHqfn/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+**AI/ML &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Systems Programming**
+
+*I build at the intersection of AI, systems, and meaningful user experiences.*
+*From kernel modules to multi-agent pipelines — I don't just write code, I craft solutions.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiza-gazyani/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aiza-gazyani.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aizagazyani16@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OKGIaNsI12ut-s7ik_8mOjJ-gzQdHqfn/view?usp=sharing)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aizagazyani16/)
+
+</div>
 
 ---
 
-<h2 align="center">🚀 What I've Shipped</h2>
+## 🚀 What I've Shipped
 
-<p align="center">
-  <strong>Baymax — AI Career Copilot</strong> &nbsp;·&nbsp; Multi-agent system with LLaMA 3.3-70b, FastAPI, Whisper, Mem0 &nbsp;·&nbsp; <em>AI Mustaqbil 2.0 Hackathon</em><br><br>
-  <strong>NeuroDetect</strong> &nbsp;·&nbsp; Parkinson's Disease detection via deep neural network on clinical biomarker data<br><br>
-  <strong>Mental Health Tracker</strong> &nbsp;·&nbsp; Full-stack AI app with mood logging, n8n workflows, Supabase auth, MongoDB<br><br>
-  <strong>Linux Kernel Module</strong> &nbsp;·&nbsp; Priority-based producer-consumer system with semaphores, spinlocks, IRQ handling<br><br>
-  <strong>Regular Grammar Parser</strong> &nbsp;·&nbsp; Formal language parser, open-source under MIT license
-</p>
-
----
-
-<h2 align="center">⚙️ Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,fastapi,tensorflow,keras,mysql,mongodb,supabase,c,cpp,git,github,linux,bash,vercel,vscode,notion" />
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| **[Baymax — AI Career Copilot](https://github.com/Aiza166)** | Multi-agent system that generates personalized 90-day career roadmaps · *AI Mustaqbil 2.0 Hackathon* | Python · FastAPI · LLaMA 3.3-70b · Whisper · Mem0 |
+| **[NeuroDetect](https://github.com/Aiza166/NeuroDetect)** | Parkinson's Disease detection via deep neural network on clinical biomarker data | TensorFlow · Keras · Scikit-learn |
+| **[Mental Health Tracker](https://github.com/Aiza166/Mental-Health-Tracker)** | Full-stack AI app with mood logging and automated insight generation | Next.js · Supabase · MongoDB · n8n |
+| **[Linux Kernel Module](https://github.com/Aiza166)** | Priority-based producer-consumer system with semaphores, spinlocks, IRQ handling | C · Linux · Kernel |
+| **[Regular Grammar Parser](https://github.com/Aiza166/regular-grammar-parser)** | Formal language parser implementing regular grammar rules · MIT licensed | Python · Automata Theory |
 
 ---
 
-<h2 align="center">📊 GitInsight</h2>
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical&cache_seconds=1800" /> 
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-<h2 align="center">🌱 Currently Working On</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  Building more AI-powered applications &nbsp;·&nbsp; Deepening systems knowledge &nbsp;·&nbsp; Open to collaboration on meaningful projects<br><br>
-  💬 Ask me about AI/ML, full-stack dev, content writing, or how to get started in tech
-</p>
+<div align="center">
 
----
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" />
 
-<h2 align="center">Beyond the Code</h2>
-
-<p align="center">
-  Marketing Head &amp; Graphic Design Co-Head @ Robotics &amp; Automation Society &nbsp;·&nbsp; Content Co-Head @ Developer Student Club<br>
-  Chess &nbsp;·&nbsp; Cycling through Karachi &nbsp;·&nbsp; Graphic Design &nbsp;·&nbsp; Poetry
-</p>
+</div>
 
 ---
 
-<h3 align="center">💭</h3>
-<p align="center"><em>"The most disruptive engineers are the ones who also know how to think." </em></p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
