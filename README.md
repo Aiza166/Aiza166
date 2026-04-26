@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aiza%20Gazyani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BSCS%20%2727%20%40%20FAST%20NUCES%20Karachi&descAlignY=55&descSize=16" />
+# Aiza Gazyani
 
-</div>
-
-<div align="center">
-
-**AI/ML &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; Systems Programming**
+**BSCS '27 @ FAST NUCES Karachi**
 
 *I build at the intersection of AI, systems, and meaningful user experiences.*
 *From kernel modules to multi-agent pipelines — I don't just write code, I craft solutions.*
@@ -25,11 +21,15 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Baymax — AI Career Copilot](https://github.com/Aiza166)** | Multi-agent system that generates personalized 90-day career roadmaps · *AI Mustaqbil 2.0 Hackathon* | Python · FastAPI · LLaMA 3.3-70b · Whisper · Mem0 |
+| **[Baymax — AI Career Copilot](https://github.com/Aiza166)** | Multi-agent system generating personalized 90-day career roadmaps · *AI Mustaqbil 2.0 Hackathon* | Python · FastAPI · LLaMA 3.3-70b · Whisper · Mem0 |
 | **[NeuroDetect](https://github.com/Aiza166/NeuroDetect)** | Parkinson's Disease detection via deep neural network on clinical biomarker data | TensorFlow · Keras · Scikit-learn |
 | **[Mental Health Tracker](https://github.com/Aiza166/Mental-Health-Tracker)** | Full-stack AI app with mood logging and automated insight generation | Next.js · Supabase · MongoDB · n8n |
-| **[Linux Kernel Module](https://github.com/Aiza166)** | Priority-based producer-consumer system with semaphores, spinlocks, IRQ handling | C · Linux · Kernel |
-| **[Regular Grammar Parser](https://github.com/Aiza166/regular-grammar-parser)** | Formal language parser implementing regular grammar rules · MIT licensed | Python · Automata Theory |
+
+<div align="center">
+
+**[→ View all projects on GitHub](https://github.com/Aiza166?tab=repositories)**
+
+</div>
 
 ---
 
@@ -70,13 +70,5 @@
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Aiza166&show_icons=true&theme=radical&cache_seconds=1800&hide_border=true" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiza166&layout=compact&theme=radical&cache_seconds=1800&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
