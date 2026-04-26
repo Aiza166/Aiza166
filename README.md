@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiza-gazyani/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aiza-gazyani.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aizagazyani16@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OKGIaNsI12ut-s7ik_8mOjJ-gzQdHqfn/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-FFA500?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1mMadEwz5CTcw6OPjF4S7lOBRSDro6GJ7/view?usp=sharing)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aizagazyani16/)
 
 </div>
