@@ -154,7 +154,7 @@ def render(variant):
         c(L, "Stars:        ") + c(V, str(stats.total_stargazers)),
         c(L, "Commits (1y): ") + c(V, str(stats.total_commits_last_year)),
         c(L, "PRs:          ") + c(V, str(stats.total_pull_requests_made)),
-        c(L, "Contributed:  ") + c(V, f"{stats.total_repo_contributions} repos"),
+        c(L, "Followers:    ") + c(V, str(stats.total_followers)),
         c(L, "Languages:    ") + c(V, top_langs),
     ]
     t.gen_text(details, 3, 38, count=75, contin=True)
