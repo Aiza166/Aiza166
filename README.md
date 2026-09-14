@@ -37,8 +37,8 @@ More on the [repositories tab →](https://github.com/Aiza166?tab=repositories)
 ## Activity
 
 <p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&theme=tokyonight&disable_animations=true" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&disable_animations=true" />
 </p>
 
 ---
