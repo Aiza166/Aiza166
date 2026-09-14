@@ -6,12 +6,7 @@ I build LLM-powered tools end to end, from the database and backend through to t
 
 [Portfolio](https://aiza-gazyani.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aiza-gazyani/) · [Resume](https://drive.google.com/file/d/1mMadEwz5CTcw6OPjF4S7lOBRSDro6GJ7/view?usp=sharing) · [LeetCode](https://leetcode.com/u/aizagazyani16/) · [Email](mailto:aizagazyani16@gmail.com)
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,bash,react,nextjs,fastapi,nodejs,mysql,mongodb,supabase,tensorflow,sklearn,linux,git&theme=dark&perline=18">
-    <img alt="C, C++, Python, PHP, JavaScript, TypeScript, Bash, React, Next.js, FastAPI, Node.js, MySQL, MongoDB, Supabase, TensorFlow, Scikit-learn, Linux, Git" src="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,bash,react,nextjs,fastapi,nodejs,mysql,mongodb,supabase,tensorflow,sklearn,linux,git&theme=light&perline=18">
-  </picture>
-</p>
+<img alt="C, C++, Python, PHP, JavaScript, TypeScript, Bash, React, Next.js, FastAPI, Node.js, MySQL, MongoDB, Supabase, TensorFlow, Scikit-learn, Linux, Git" src="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,bash,react,nextjs,fastapi,nodejs,mysql,mongodb,supabase,tensorflow,sklearn,linux,git&theme=dark&perline=9" />
 
 ## Lately
 
@@ -42,14 +37,8 @@ More on the [repositories tab →](https://github.com/Aiza166?tab=repositories)
 ## Activity
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=58a6ff">
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=0969da">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1">
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e">
-  </picture>
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
 </p>
 
 ---
