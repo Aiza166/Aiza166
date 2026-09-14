@@ -1,0 +1,41 @@
+name: Render terminal GIF
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"   # daily, 05:30 PKT
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg and github-readme-terminal
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          python -m pip install --quiet --upgrade pip github-readme-terminal
+
+      - name: Render
+        run: python main.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git add output-dark.gif output-light.gif README.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -m "Render terminal GIF ($(TZ=Asia/Karachi date '+%d %b %Y'))"
+          git push

@@ -1,0 +1,4 @@
+frames/
+.smiley-*.png
+__pycache__/
+.env
