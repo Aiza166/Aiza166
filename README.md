@@ -1,54 +1,57 @@
-<div align="center">
-
 # Aiza Gazyani
 
-Final-year CS student at FAST NUCES, Karachi.
-I build LLM-powered tools end to end, from the database and backend through to the browser.
+**Final-year computer science student at FAST NUCES, Karachi, graduating 2027.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](https://aiza-gazyani.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiza-gazyani/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aizagazyani16@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-F59E0B?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1mMadEwz5CTcw6OPjF4S7lOBRSDro6GJ7/view?usp=sharing)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/aizagazyani16/)
+I build LLM-powered tools end to end, from the database and backend through to the browser, with a background in systems programming and machine learning.
 
-</div>
+[Portfolio](https://aiza-gazyani.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aiza-gazyani/) · [Resume](https://drive.google.com/file/d/1mMadEwz5CTcw6OPjF4S7lOBRSDro6GJ7/view?usp=sharing) · [LeetCode](https://leetcode.com/u/aizagazyani16/) · [Email](mailto:aizagazyani16@gmail.com)
 
-<br/>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,bash,react,nextjs,fastapi,nodejs,mysql,mongodb,supabase,tensorflow,sklearn,linux,git&theme=dark&perline=18">
+    <img alt="C, C++, Python, PHP, JavaScript, TypeScript, Bash, React, Next.js, FastAPI, Node.js, MySQL, MongoDB, Supabase, TensorFlow, Scikit-learn, Linux, Git" src="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,bash,react,nextjs,fastapi,nodejs,mysql,mongodb,supabase,tensorflow,sklearn,linux,git&theme=light&perline=18">
+  </picture>
+</p>
 
-### Recently
+## Lately
 
-Software engineering intern at **AlphaVenture** (summer 2026). Built the AI analyst for their Y Combinator startup product: a chat that answers questions about 5,998 startups from a live MariaDB database, streaming tables, charts, and reports as the model writes them. Designed an MCP server as the model's only path to the data, and cut first-response time from 61 s to 24 s. Now being deployed to production.
+**AlphaVenture** · Software Engineering Intern, Karachi, June–July 2026. I built the AI analyst for their product for exploring Y Combinator startups: ask a plain-English question about 5,998 startups and get tables, charts and full reports streamed to the browser as the model writes them. PHP 8.3 and plain JavaScript, no framework.
 
-<br/>
+- The model's only path to the live MariaDB database is a Model Context Protocol (MCP) server I designed: read-only queries, size caps, low-permission accounts.
+- Moving deferred startup work to server boot cut the first-message wait from 61 s to 24 s.
+- Also shipped as an embeddable widget on their public site, from the same codebase as the main chat. Handed to AlphaVenture's engineers and now being deployed to production. Private code.
 
-### Projects
+Before that: three full-stack Next.js apps for **Nexium** — Mental Health Tracker ([live](https://mental-health-tracker-snowy.vercel.app) · [code](https://github.com/Aiza166/Mental-Health-Tracker)), Blog Summariser ([live](https://blog-summariser-five.vercel.app) · [code](https://github.com/Aiza166/blog-summariser)), Quote Generator ([live](https://nexium-aiza.vercel.app) · [code](https://github.com/Aiza166/Quote-Generator-Web-App)) — and a summer of 300+ algorithm problems with the **Dev Weekends** fellowship.
 
-| | | |
-|---|---|---|
-| **AI Analyst** <br/><sub>private, AlphaVenture</sub> | Plain-English chat over a startup database. Read-only MCP server, streamed responses, embeddable widget. | `PHP` `JavaScript` `MariaDB` `MCP` |
-| **[Baymax.app](https://github.com/Aiza166/baymax.app)** <br/><sub>[live demo](https://baymax-app-alpha.vercel.app/)</sub> | Multi-agent AI career copilot, built with a team at a hackathon. My agent generates 90-day plans: a constraint solver (AC-3 + backtracking) validates the schedule before the LLM writes it up. | `Python` `FastAPI` `React` `LLaMA 3.3` |
-| **[NeuroDetect](https://github.com/Aiza166/NeuroDetect)** | Parkinson's classifier that became a leakage audit. 3 of 32 features encoded the diagnosis; ROC-AUC fell from 0.91 to 0.53 once they were removed. Published the honest numbers. | `TensorFlow` `Keras` `Scikit-learn` |
-| **Kernel Module** <br/><sub>private, coursework</sub> | Linux producer-consumer module: 4 consumer threads, 3-priority buffer, split IRQ handling, 6 userspace interfaces across procfs, sysfs, debugfs, and char devices. | `C` `Linux` |
-| **[PixelForge](https://github.com/Aiza166/PixelForge-Compiler)** | A pixel-art language with a full compiler: lexer, parser, semantic analysis, IR, bytecode, and a stack VM that renders PNG or ANSI. | `Python` |
-| **[Mental Health Tracker](https://github.com/Aiza166/Mental-Health-Tracker)** <br/><sub>[live demo](https://mental-health-tracker-snowy.vercel.app)</sub> | Mood and sleep logging with AI insights via an n8n workflow. | `Next.js` `Supabase` `MongoDB` |
+## Selected work
 
-<div align="right"><sub><a href="https://github.com/Aiza166?tab=repositories">all repositories →</a></sub></div>
+**[baymax.app](https://github.com/Aiza166/baymax.app)** — Multi-agent AI career copilot, a team project for the AI Mustaqbil 2.0 hackathon, extended for the Women in AI Accelerator Build Challenge. My part is Abigail, the roadmap agent: constraint satisfaction (AC-3 arc consistency plus backtracking search) enforces prerequisites and realistic scheduling on a 90-day learning plan *before* an LLM turns it into readable guidance, with responsible-AI guardrails (per-IP rate limiting, PII-free logging, explainable scoring, output fallbacks) on top.<br>
+*Python, FastAPI, React, TypeScript, Groq LLaMA 3.3-70B* · [Live →](https://baymax-app-alpha.vercel.app/)
 
-<br/>
+**[NeuroDetect](https://github.com/Aiza166/NeuroDetect)** — A Parkinson's classifier on a clinical-style dataset, and the audit that followed: 3 of its 32 features were clinical assessments of Parkinson's itself, and retraining without them dropped ROC-AUC from 0.91 to 0.74, then to 0.53 (chance) once the motor-symptom flags went too. The dataset turned out to be synthetic (uniform marginals, max inter-feature correlation 0.08), so the repo publishes the honest numbers and says plainly that it is not a screening tool.<br>
+*Python, TensorFlow, Keras, Scikit-learn, Pandas*
 
-### Stack
+**[PixelForge-Compiler](https://github.com/Aiza166/PixelForge-Compiler)** — A small language for drawing pixel art, with the whole pipeline: handwritten DFA lexer, recursive-descent LL(1) parser, semantic analysis, three-address IR, custom bytecode and a stack-based VM that renders to PNG or the ANSI terminal. Flask web UI with live canvas preview; Compiler Construction course, team of two.<br>
+*Python, Flask*
 
-<div align="center">
+**Producer-Consumer Kernel Module** — A Linux kernel module: one producer and four consumer kernel threads over a 20-slot circular buffer with three priority levels, drained highest-priority-first, with six userspace interfaces across procfs, sysfs, debugfs and char devices. About 600 lines of C, team of four.<br>
+*C, Linux* · coursework, not on GitHub
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,php,js,ts,react,nextjs,fastapi,nodejs,mysql,mongodb,supabase,tensorflow,linux,git&theme=dark&perline=8" />
+More on the [repositories tab →](https://github.com/Aiza166?tab=repositories)
 
-</div>
+## Activity
 
-<br/>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1&icon_color=58a6ff">
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e&icon_color=0969da">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=9198a1">
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=1f2328&text_color=59636e">
+  </picture>
+</p>
 
-<div align="center">
+---
 
-<img height="160" src="https://github-readme-stats.shion.dev/api?username=Aiza166&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aiza166&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="Top languages" />
-
-</div>
+Off the keyboard: chess, graphic design, cycling. On campus: marketing, content and design roles at the Robotics and Automation Society, Developer Student Club and FAST Entrepreneurship Society.
