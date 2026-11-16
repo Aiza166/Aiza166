@@ -16,7 +16,7 @@
 📍 Karachi · chess, graphic design, cycling.
 
 <p align="center">
-<a href="https://aiza-gazyani.vercel.app/"><code>[ site ]</code></a> · <a href="mailto:aizagazyani16@gmail.com"><code>[ email ]</code></a> · <a href="https://www.linkedin.com/in/aiza-gazyani/"><code>[ linkedin ]</code></a> · <a href="https://drive.google.com/file/d/1mMadEwz5CTcw6OPjF4S7lOBRSDro6GJ7/view?usp=sharing"><code>[ resume ]</code></a> · <a href="https://leetcode.com/u/aizagazyani16/"><code>[ leetcode ]</code></a>
+<a href="https://aizagazyani.work/"><code>[ site ]</code></a> · <a href="mailto:aizagazyani16@gmail.com"><code>[ email ]</code></a> · <a href="https://www.linkedin.com/in/aiza-gazyani/"><code>[ linkedin ]</code></a> · <a href="https://drive.google.com/file/d/1mMadEwz5CTcw6OPjF4S7lOBRSDro6GJ7/view?usp=sharing"><code>[ resume ]</code></a> · <a href="https://leetcode.com/u/aizagazyani16/"><code>[ leetcode ]</code></a>
 </p>
 
 Tip: run `gh repo list Aiza166 --limit 10` to browse my repositories from your own terminal.
